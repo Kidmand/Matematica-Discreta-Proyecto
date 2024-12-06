@@ -1,0 +1,23 @@
+c
+c
+c Grafo completo de 4 vertices
+c
+c numero cromatico: 4
+c orden: 0 1 2 3
+c coloreo: 1 2 3 4
+c comando: ./tests/PARTE2/greedy.test.out 4 0 1 2 3 1 2 3 4 < tests/PARTE2/inputs/ejemplo_basico.txt
+c 
+c numero cromatico: 4
+c orden: 3 2 1 0
+c coloreo: 1 2 3 4
+c comando: ./tests/PARTE2/greedy.test.out 4 3 2 1 0 1 2 3 4 < tests/PARTE2/inputs/ejemplo_basico.txt
+c 
+c
+p edge 4 6 
+e 0 1
+e 0 2 
+e 0 3  
+e 1 2 
+e 1 3  
+e 2 3  
+TEXTO BASURA QUE NO DEBE LEERSE ........

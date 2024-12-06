@@ -1,0 +1,11 @@
+Nombre: Ramiro
+Apellido: Lugo Viola
+Email: ramiro.lugo@mi.unc.edu.ar
+---
+Nombre: Daián
+Apellido: García Giménez
+Email: daian.gimenez@mi.unc.edu.ar
+---
+Nombre: Matias
+Apellido: Viola Di Benedetto
+Email: matias.viola@mi.unc.edu.ar
